@@ -11,7 +11,7 @@ Courses I've completed during my education @SoftUni
 5. [While Loop](https://github.com/Georgiev06/SoftUni/tree/main/C%23%20Basics/5.While%20Loop)
 6. [Nested Loops](https://github.com/Georgiev06/SoftUni/tree/main/C%23%20Basics/6.Nested%20Loops)
 
-
+### C# Fundamentals Carriculum List
 
 
 
