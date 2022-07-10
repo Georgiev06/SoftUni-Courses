@@ -5,7 +5,7 @@
 
 ## Here you can find problem solutions for the following courses:
 
-### C# Basics Carriculum List
+- ### C# Basics Carriculum List
 1. [First Steps In Coding](https://github.com/Georgiev06/SoftUni/tree/main/C%23%20Basics/1.First%20Steps%20In%20Coding)
 2. [Conditional Statements](https://github.com/Georgiev06/SoftUni/tree/main/C%23%20Basics/2.Conditional%20Statements)
 3. [Conditional Statements Advanced](https://github.com/Georgiev06/SoftUni/tree/main/C%23%20Basics/3.Conditional%20Statements%20Advanced)
@@ -13,15 +13,10 @@
 5. [While Loop](https://github.com/Georgiev06/SoftUni/tree/main/C%23%20Basics/5.While%20Loop)
 6. [Nested Loops](https://github.com/Georgiev06/SoftUni/tree/main/C%23%20Basics/6.Nested%20Loops)
 
-### C# Fundamentals Carriculum List
+- ### C# Fundamentals Carriculum List
 1. [Basic Syntax, Conditional Statements and Loops](https://github.com/Georgiev06/SoftUni/tree/main/C%23%20Fundamentals/01.Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops)
 2. [Data Types and Variables](https://github.com/Georgiev06/SoftUni/tree/main/C%23%20Fundamentals/02.Data%20Types%20and%20Variables)
 3. [Arrays](https://github.com/Georgiev06/SoftUni/tree/main/C%23%20Fundamentals/03.Arrays)
 4. []()
 5. []()
 6. []()
-
-
-
-
-
