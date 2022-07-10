@@ -1,4 +1,4 @@
-# SoftUni
+# SoftUni-Courses
 
 
 <img src="https://user-images.githubusercontent.com/105492506/178145863-2e18ebc5-eeb8-4446-a772-0d937dd6f92e.png" width="20" height="20"> Courses I've completed during my education @SoftUni.
