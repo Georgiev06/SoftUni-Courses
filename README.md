@@ -18,7 +18,4 @@
 2. [Data Types and Variables](https://github.com/Georgiev06/SoftUni/tree/main/C%23%20Fundamentals/02.Data%20Types%20and%20Variables)
 3. [Arrays](https://github.com/Georgiev06/SoftUni/tree/main/C%23%20Fundamentals/03.Arrays)
 4. [Methods](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Fundamentals/04.Methods)
-5. []()
-6. []()
-7. []()
-8. []()
+
