@@ -19,3 +19,4 @@
 3. [Arrays](https://github.com/Georgiev06/SoftUni/tree/main/C%23%20Fundamentals/03.Arrays)
 4. [Methods](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Fundamentals/04.Methods)
 5. [Lists](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Fundamentals/05.Lists)
+6.
