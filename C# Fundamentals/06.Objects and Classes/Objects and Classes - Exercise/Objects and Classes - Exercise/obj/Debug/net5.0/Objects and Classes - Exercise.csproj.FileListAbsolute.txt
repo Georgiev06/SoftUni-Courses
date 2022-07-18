@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\Objects and Classes - Exercise\Objects and Classes - Exercise\bin\Debug\net5.0\Objects and Classes - Exercise.exe
+C:\Users\Owner\source\repos\Objects and Classes - Exercise\Objects and Classes - Exercise\bin\Debug\net5.0\Objects and Classes - Exercise.deps.json
+C:\Users\Owner\source\repos\Objects and Classes - Exercise\Objects and Classes - Exercise\bin\Debug\net5.0\Objects and Classes - Exercise.runtimeconfig.json
+C:\Users\Owner\source\repos\Objects and Classes - Exercise\Objects and Classes - Exercise\bin\Debug\net5.0\Objects and Classes - Exercise.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Objects and Classes - Exercise\Objects and Classes - Exercise\bin\Debug\net5.0\Objects and Classes - Exercise.dll
+C:\Users\Owner\source\repos\Objects and Classes - Exercise\Objects and Classes - Exercise\bin\Debug\net5.0\Objects and Classes - Exercise.pdb
+C:\Users\Owner\source\repos\Objects and Classes - Exercise\Objects and Classes - Exercise\obj\Debug\net5.0\Objects and Classes - Exercise.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Objects and Classes - Exercise\Objects and Classes - Exercise\obj\Debug\net5.0\Objects and Classes - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Objects and Classes - Exercise\Objects and Classes - Exercise\obj\Debug\net5.0\Objects and Classes - Exercise.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Objects and Classes - Exercise\Objects and Classes - Exercise\obj\Debug\net5.0\Objects and Classes - Exercise.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Objects and Classes - Exercise\Objects and Classes - Exercise\obj\Debug\net5.0\Objects and Classes - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Objects and Classes - Exercise\Objects and Classes - Exercise\obj\Debug\net5.0\Objects and Classes - Exercise.dll
+C:\Users\Owner\source\repos\Objects and Classes - Exercise\Objects and Classes - Exercise\obj\Debug\net5.0\refint\Objects and Classes - Exercise.dll
+C:\Users\Owner\source\repos\Objects and Classes - Exercise\Objects and Classes - Exercise\obj\Debug\net5.0\Objects and Classes - Exercise.pdb
+C:\Users\Owner\source\repos\Objects and Classes - Exercise\Objects and Classes - Exercise\obj\Debug\net5.0\Objects and Classes - Exercise.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Objects and Classes - Exercise\Objects and Classes - Exercise\obj\Debug\net5.0\ref\Objects and Classes - Exercise.dll
