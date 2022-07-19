@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\08. Company Users\bin\Debug\net5.0\08. Company Users.exe
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\08. Company Users\bin\Debug\net5.0\08. Company Users.deps.json
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\08. Company Users\bin\Debug\net5.0\08. Company Users.runtimeconfig.json
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\08. Company Users\bin\Debug\net5.0\08. Company Users.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\08. Company Users\bin\Debug\net5.0\08. Company Users.dll
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\08. Company Users\bin\Debug\net5.0\08. Company Users.pdb
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\08. Company Users\obj\Debug\net5.0\08. Company Users.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\08. Company Users\obj\Debug\net5.0\08. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\08. Company Users\obj\Debug\net5.0\08. Company Users.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\08. Company Users\obj\Debug\net5.0\08. Company Users.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\08. Company Users\obj\Debug\net5.0\08. Company Users.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\08. Company Users\obj\Debug\net5.0\08. Company Users.dll
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\08. Company Users\obj\Debug\net5.0\refint\08. Company Users.dll
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\08. Company Users\obj\Debug\net5.0\08. Company Users.pdb
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\08. Company Users\obj\Debug\net5.0\08. Company Users.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\08. Company Users\obj\Debug\net5.0\ref\08. Company Users.dll

@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\07. Student Academy\bin\Debug\net5.0\07. Student Academy.exe
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\07. Student Academy\bin\Debug\net5.0\07. Student Academy.deps.json
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\07. Student Academy\bin\Debug\net5.0\07. Student Academy.runtimeconfig.json
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\07. Student Academy\bin\Debug\net5.0\07. Student Academy.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\07. Student Academy\bin\Debug\net5.0\07. Student Academy.dll
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\07. Student Academy\bin\Debug\net5.0\07. Student Academy.pdb
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\net5.0\07. Student Academy.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\net5.0\07. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\net5.0\07. Student Academy.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\net5.0\07. Student Academy.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\net5.0\07. Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\net5.0\07. Student Academy.dll
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\net5.0\refint\07. Student Academy.dll
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\net5.0\07. Student Academy.pdb
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\net5.0\07. Student Academy.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\net5.0\ref\07. Student Academy.dll
