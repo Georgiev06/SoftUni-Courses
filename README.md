@@ -20,3 +20,5 @@
 4. [Methods](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Fundamentals/04.Methods)
 5. [Lists](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Fundamentals/05.Lists)
 6. [Objects and Classes](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Fundamentals/06.Objects%20and%20Classes)
+7. [Associative Arrays](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Fundamentals/07.Associative%20Arrays)
+8. [Text Processing](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Fundamentals/08.Text%20Processing)
