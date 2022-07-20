@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.exe
+C:\Users\Owner\source\repos\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.deps.json
+C:\Users\Owner\source\repos\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.runtimeconfig.json
+C:\Users\Owner\source\repos\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.dll
+C:\Users\Owner\source\repos\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.pdb
+C:\Users\Owner\source\repos\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.dll
+C:\Users\Owner\source\repos\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\refint\04. Caesar Cipher.dll
+C:\Users\Owner\source\repos\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.pdb
+C:\Users\Owner\source\repos\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net5.0\ref\04. Caesar Cipher.dll

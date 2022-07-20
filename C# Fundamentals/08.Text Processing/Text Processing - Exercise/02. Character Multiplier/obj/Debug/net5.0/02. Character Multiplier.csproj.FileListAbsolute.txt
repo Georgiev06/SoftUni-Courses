@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\Text Processing - Exercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.exe
+C:\Users\Owner\source\repos\Text Processing - Exercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.deps.json
+C:\Users\Owner\source\repos\Text Processing - Exercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.runtimeconfig.json
+C:\Users\Owner\source\repos\Text Processing - Exercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Text Processing - Exercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.dll
+C:\Users\Owner\source\repos\Text Processing - Exercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.pdb
+C:\Users\Owner\source\repos\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.dll
+C:\Users\Owner\source\repos\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\refint\02. Character Multiplier.dll
+C:\Users\Owner\source\repos\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.pdb
+C:\Users\Owner\source\repos\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\ref\02. Character Multiplier.dll
