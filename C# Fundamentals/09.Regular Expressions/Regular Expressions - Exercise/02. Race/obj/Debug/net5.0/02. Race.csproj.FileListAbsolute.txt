@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\Regular Expressions - Exercise\02. Race\bin\Debug\net5.0\02. Race.exe
+C:\Users\Owner\source\repos\Regular Expressions - Exercise\02. Race\bin\Debug\net5.0\02. Race.deps.json
+C:\Users\Owner\source\repos\Regular Expressions - Exercise\02. Race\bin\Debug\net5.0\02. Race.runtimeconfig.json
+C:\Users\Owner\source\repos\Regular Expressions - Exercise\02. Race\bin\Debug\net5.0\02. Race.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Regular Expressions - Exercise\02. Race\bin\Debug\net5.0\02. Race.dll
+C:\Users\Owner\source\repos\Regular Expressions - Exercise\02. Race\bin\Debug\net5.0\02. Race.pdb
+C:\Users\Owner\source\repos\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\02. Race.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\02. Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\02. Race.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\02. Race.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\02. Race.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\02. Race.dll
+C:\Users\Owner\source\repos\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\refint\02. Race.dll
+C:\Users\Owner\source\repos\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\02. Race.pdb
+C:\Users\Owner\source\repos\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\02. Race.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Regular Expressions - Exercise\02. Race\obj\Debug\net5.0\ref\02. Race.dll

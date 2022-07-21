@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\Regular Expressions - Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Regular Expressions - Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Regular Expressions - Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Regular Expressions - Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Regular Expressions - Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Regular Expressions - Lab\03. Match Dates\bin\Debug\net5.0\03. Match Dates.exe
+C:\Users\Owner\source\repos\Regular Expressions - Lab\03. Match Dates\bin\Debug\net5.0\03. Match Dates.deps.json
+C:\Users\Owner\source\repos\Regular Expressions - Lab\03. Match Dates\bin\Debug\net5.0\03. Match Dates.runtimeconfig.json
+C:\Users\Owner\source\repos\Regular Expressions - Lab\03. Match Dates\bin\Debug\net5.0\03. Match Dates.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Regular Expressions - Lab\03. Match Dates\bin\Debug\net5.0\03. Match Dates.dll
+C:\Users\Owner\source\repos\Regular Expressions - Lab\03. Match Dates\bin\Debug\net5.0\03. Match Dates.pdb
+C:\Users\Owner\source\repos\Regular Expressions - Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.dll
+C:\Users\Owner\source\repos\Regular Expressions - Lab\03. Match Dates\obj\Debug\net5.0\refint\03. Match Dates.dll
+C:\Users\Owner\source\repos\Regular Expressions - Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.pdb
+C:\Users\Owner\source\repos\Regular Expressions - Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Regular Expressions - Lab\03. Match Dates\obj\Debug\net5.0\ref\03. Match Dates.dll
