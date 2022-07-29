@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/105492506/178145863-2e18ebc5-eeb8-4446-a772-0d937dd6f92e.png" width="20" height="20"> Courses I've completed during my education @SoftUni.
 
-## Here you can find problem solutions for the following courses:
+### Here you can find problem solutions for the following courses:
 
 - ### C# Basics Carriculum List
 1. [First Steps In Coding](https://github.com/Georgiev06/SoftUni/tree/main/C%23%20Basics/1.First%20Steps%20In%20Coding)
