@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace _4._Matching_Brackets
+namespace _04._Matching_Brackets
 {
     internal class Program
     {
@@ -25,7 +25,6 @@ namespace _4._Matching_Brackets
                     Console.WriteLine(expresion.Substring(startIndex, endIndex - startIndex + 1));
                 }
             }
-
         }
     }
 }

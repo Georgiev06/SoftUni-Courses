@@ -28,8 +28,6 @@ namespace _03._Simple_Calculator
             }
 
             Console.WriteLine(stack.Peek());
-
         }
     }
 }
-

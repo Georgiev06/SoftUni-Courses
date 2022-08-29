@@ -58,4 +58,3 @@ namespace _02._Stack_Sum
         }
     }
 }
-

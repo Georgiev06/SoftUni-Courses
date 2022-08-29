@@ -20,7 +20,6 @@ namespace _01._Reverse_a_String
             {
                 Console.Write(stack.Pop());
             }
-
         }
     }
 }
