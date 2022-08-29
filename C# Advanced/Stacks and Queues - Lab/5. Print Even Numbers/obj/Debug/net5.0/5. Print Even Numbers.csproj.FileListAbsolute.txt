@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.exe
+C:\Users\Owner\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.deps.json
+C:\Users\Owner\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.runtimeconfig.json
+C:\Users\Owner\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.dll
+C:\Users\Owner\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.pdb
+C:\Users\Owner\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.dll
+C:\Users\Owner\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\refint\5. Print Even Numbers.dll
+C:\Users\Owner\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.pdb
+C:\Users\Owner\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\ref\5. Print Even Numbers.dll
