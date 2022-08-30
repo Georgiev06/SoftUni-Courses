@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.exe
+C:\Users\Owner\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.deps.json
+C:\Users\Owner\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.runtimeconfig.json
+C:\Users\Owner\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.dll
+C:\Users\Owner\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.pdb
+C:\Users\Owner\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.dll
+C:\Users\Owner\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\refint\4. Matrix Shuffling.dll
+C:\Users\Owner\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.pdb
+C:\Users\Owner\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\ref\4. Matrix Shuffling.dll

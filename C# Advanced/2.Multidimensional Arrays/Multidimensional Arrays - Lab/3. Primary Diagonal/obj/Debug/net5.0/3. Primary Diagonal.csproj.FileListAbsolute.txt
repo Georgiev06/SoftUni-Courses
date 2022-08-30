@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.exe
+C:\Users\Owner\source\repos\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.deps.json
+C:\Users\Owner\source\repos\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.runtimeconfig.json
+C:\Users\Owner\source\repos\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.dll
+C:\Users\Owner\source\repos\Multidimensional Arrays - Lab\3. Primary Diagonal\bin\Debug\net5.0\3. Primary Diagonal.pdb
+C:\Users\Owner\source\repos\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.dll
+C:\Users\Owner\source\repos\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\refint\3. Primary Diagonal.dll
+C:\Users\Owner\source\repos\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.pdb
+C:\Users\Owner\source\repos\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\3. Primary Diagonal.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Multidimensional Arrays - Lab\3. Primary Diagonal\obj\Debug\net5.0\ref\3. Primary Diagonal.dll
