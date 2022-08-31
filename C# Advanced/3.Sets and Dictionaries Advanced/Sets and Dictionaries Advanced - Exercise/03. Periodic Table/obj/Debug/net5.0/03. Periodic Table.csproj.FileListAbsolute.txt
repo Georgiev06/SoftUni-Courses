@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.exe
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.deps.json
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.runtimeconfig.json
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.dll
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.pdb
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.dll
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\refint\03. Periodic Table.dll
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.pdb
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\net5.0\ref\03. Periodic Table.dll

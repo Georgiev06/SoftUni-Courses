@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.exe
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.deps.json
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.runtimeconfig.json
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.dll
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.pdb
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.dll
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\refint\02. Average Student Grades.dll
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.pdb
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\ref\02. Average Student Grades.dll

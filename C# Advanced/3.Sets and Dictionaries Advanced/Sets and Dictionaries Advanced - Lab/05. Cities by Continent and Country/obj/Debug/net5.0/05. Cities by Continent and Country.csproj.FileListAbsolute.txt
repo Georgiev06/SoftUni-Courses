@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net5.0\05. Cities by Continent and Country.exe
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net5.0\05. Cities by Continent and Country.deps.json
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net5.0\05. Cities by Continent and Country.runtimeconfig.json
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net5.0\05. Cities by Continent and Country.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net5.0\05. Cities by Continent and Country.dll
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net5.0\05. Cities by Continent and Country.pdb
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.dll
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\refint\05. Cities by Continent and Country.dll
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.pdb
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\ref\05. Cities by Continent and Country.dll
