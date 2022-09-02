@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\netcoreapp3.1\06. Zip and Extracts.exe
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\netcoreapp3.1\06. Zip and Extracts.deps.json
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\netcoreapp3.1\06. Zip and Extracts.runtimeconfig.json
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\netcoreapp3.1\06. Zip and Extracts.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\netcoreapp3.1\06. Zip and Extracts.dll
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\06. Zip and Extracts\bin\Debug\netcoreapp3.1\06. Zip and Extracts.pdb
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\netcoreapp3.1\06. Zip and Extracts.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\netcoreapp3.1\06. Zip and Extracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\netcoreapp3.1\06. Zip and Extracts.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\netcoreapp3.1\06. Zip and Extracts.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\netcoreapp3.1\06. Zip and Extracts.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\netcoreapp3.1\06. Zip and Extracts.dll
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\netcoreapp3.1\06. Zip and Extracts.pdb
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\06. Zip and Extracts\obj\Debug\netcoreapp3.1\06. Zip and Extracts.genruntimeconfig.cache

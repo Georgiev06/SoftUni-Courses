@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\netcoreapp3.1\04. Merge Text Files.exe
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\netcoreapp3.1\04. Merge Text Files.deps.json
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\netcoreapp3.1\04. Merge Text Files.runtimeconfig.json
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\netcoreapp3.1\04. Merge Text Files.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\netcoreapp3.1\04. Merge Text Files.dll
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\netcoreapp3.1\04. Merge Text Files.pdb
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\netcoreapp3.1\04. Merge Text Files.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\netcoreapp3.1\04. Merge Text Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\netcoreapp3.1\04. Merge Text Files.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\netcoreapp3.1\04. Merge Text Files.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\netcoreapp3.1\04. Merge Text Files.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\netcoreapp3.1\04. Merge Text Files.dll
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\netcoreapp3.1\04. Merge Text Files.pdb
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\netcoreapp3.1\04. Merge Text Files.genruntimeconfig.cache

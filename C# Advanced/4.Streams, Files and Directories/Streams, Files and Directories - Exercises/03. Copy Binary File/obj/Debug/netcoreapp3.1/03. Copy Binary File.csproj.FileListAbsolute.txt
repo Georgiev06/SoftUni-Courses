@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\netcoreapp3.1\03. Copy Binary File.exe
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\netcoreapp3.1\03. Copy Binary File.deps.json
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\netcoreapp3.1\03. Copy Binary File.runtimeconfig.json
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\netcoreapp3.1\03. Copy Binary File.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\netcoreapp3.1\03. Copy Binary File.dll
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\netcoreapp3.1\03. Copy Binary File.pdb
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.dll
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.pdb
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.genruntimeconfig.cache

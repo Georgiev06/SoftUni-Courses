@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\netcoreapp3.1\05. Extract Special Bytes.exe
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\netcoreapp3.1\05. Extract Special Bytes.deps.json
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\netcoreapp3.1\05. Extract Special Bytes.runtimeconfig.json
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\netcoreapp3.1\05. Extract Special Bytes.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\netcoreapp3.1\05. Extract Special Bytes.dll
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\netcoreapp3.1\05. Extract Special Bytes.pdb
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.dll
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.pdb
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.genruntimeconfig.cache

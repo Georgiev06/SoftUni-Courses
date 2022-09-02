@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\netcoreapp3.1\01. Odd Lines.exe
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\netcoreapp3.1\01. Odd Lines.deps.json
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\netcoreapp3.1\01. Odd Lines.runtimeconfig.json
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\netcoreapp3.1\01. Odd Lines.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\netcoreapp3.1\01. Odd Lines.dll
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\01. Odd Lines\bin\Debug\netcoreapp3.1\01. Odd Lines.pdb
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\netcoreapp3.1\01. Odd Lines.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\netcoreapp3.1\01. Odd Lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\netcoreapp3.1\01. Odd Lines.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\netcoreapp3.1\01. Odd Lines.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\netcoreapp3.1\01. Odd Lines.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\netcoreapp3.1\01. Odd Lines.dll
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\netcoreapp3.1\01. Odd Lines.pdb
+C:\Users\Owner\source\repos\Streams, Files and Directories - Lab\01. Odd Lines\obj\Debug\netcoreapp3.1\01. Odd Lines.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\netcoreapp3.1\05. Copy Directory.exe
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\netcoreapp3.1\05. Copy Directory.deps.json
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\netcoreapp3.1\05. Copy Directory.runtimeconfig.json
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\netcoreapp3.1\05. Copy Directory.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\netcoreapp3.1\05. Copy Directory.dll
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\netcoreapp3.1\05. Copy Directory.pdb
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\netcoreapp3.1\05. Copy Directory.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\netcoreapp3.1\05. Copy Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\netcoreapp3.1\05. Copy Directory.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\netcoreapp3.1\05. Copy Directory.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\netcoreapp3.1\05. Copy Directory.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\netcoreapp3.1\05. Copy Directory.dll
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\netcoreapp3.1\05. Copy Directory.pdb
+C:\Users\Owner\source\repos\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\netcoreapp3.1\05. Copy Directory.genruntimeconfig.cache
