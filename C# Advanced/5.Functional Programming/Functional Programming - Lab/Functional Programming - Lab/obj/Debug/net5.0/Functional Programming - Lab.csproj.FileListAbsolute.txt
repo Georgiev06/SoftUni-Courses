@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\Functional Programming - Lab\Functional Programming - Lab\bin\Debug\net5.0\Functional Programming - Lab.exe
+C:\Users\Owner\source\repos\Functional Programming - Lab\Functional Programming - Lab\bin\Debug\net5.0\Functional Programming - Lab.deps.json
+C:\Users\Owner\source\repos\Functional Programming - Lab\Functional Programming - Lab\bin\Debug\net5.0\Functional Programming - Lab.runtimeconfig.json
+C:\Users\Owner\source\repos\Functional Programming - Lab\Functional Programming - Lab\bin\Debug\net5.0\Functional Programming - Lab.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Functional Programming - Lab\Functional Programming - Lab\bin\Debug\net5.0\Functional Programming - Lab.dll
+C:\Users\Owner\source\repos\Functional Programming - Lab\Functional Programming - Lab\bin\Debug\net5.0\Functional Programming - Lab.pdb
+C:\Users\Owner\source\repos\Functional Programming - Lab\Functional Programming - Lab\obj\Debug\net5.0\Functional Programming - Lab.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Functional Programming - Lab\Functional Programming - Lab\obj\Debug\net5.0\Functional Programming - Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Functional Programming - Lab\Functional Programming - Lab\obj\Debug\net5.0\Functional Programming - Lab.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Functional Programming - Lab\Functional Programming - Lab\obj\Debug\net5.0\Functional Programming - Lab.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Functional Programming - Lab\Functional Programming - Lab\obj\Debug\net5.0\Functional Programming - Lab.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Functional Programming - Lab\Functional Programming - Lab\obj\Debug\net5.0\Functional Programming - Lab.dll
+C:\Users\Owner\source\repos\Functional Programming - Lab\Functional Programming - Lab\obj\Debug\net5.0\refint\Functional Programming - Lab.dll
+C:\Users\Owner\source\repos\Functional Programming - Lab\Functional Programming - Lab\obj\Debug\net5.0\Functional Programming - Lab.pdb
+C:\Users\Owner\source\repos\Functional Programming - Lab\Functional Programming - Lab\obj\Debug\net5.0\Functional Programming - Lab.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Functional Programming - Lab\Functional Programming - Lab\obj\Debug\net5.0\ref\Functional Programming - Lab.dll

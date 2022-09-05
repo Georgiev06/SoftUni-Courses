@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\bin\Debug\net5.0\Functional Programming - Exercise.exe
+C:\Users\Owner\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\bin\Debug\net5.0\Functional Programming - Exercise.deps.json
+C:\Users\Owner\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\bin\Debug\net5.0\Functional Programming - Exercise.runtimeconfig.json
+C:\Users\Owner\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\bin\Debug\net5.0\Functional Programming - Exercise.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\bin\Debug\net5.0\Functional Programming - Exercise.dll
+C:\Users\Owner\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\bin\Debug\net5.0\Functional Programming - Exercise.pdb
+C:\Users\Owner\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net5.0\Functional Programming - Exercise.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net5.0\Functional Programming - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net5.0\Functional Programming - Exercise.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net5.0\Functional Programming - Exercise.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net5.0\Functional Programming - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net5.0\Functional Programming - Exercise.dll
+C:\Users\Owner\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net5.0\refint\Functional Programming - Exercise.dll
+C:\Users\Owner\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net5.0\Functional Programming - Exercise.pdb
+C:\Users\Owner\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net5.0\Functional Programming - Exercise.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net5.0\ref\Functional Programming - Exercise.dll

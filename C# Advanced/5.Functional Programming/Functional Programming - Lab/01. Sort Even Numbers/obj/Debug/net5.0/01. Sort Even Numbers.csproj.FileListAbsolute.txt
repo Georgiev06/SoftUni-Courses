@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.exe
+C:\Users\Owner\source\repos\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.deps.json
+C:\Users\Owner\source\repos\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.runtimeconfig.json
+C:\Users\Owner\source\repos\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.dll
+C:\Users\Owner\source\repos\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net5.0\01. Sort Even Numbers.pdb
+C:\Users\Owner\source\repos\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.dll
+C:\Users\Owner\source\repos\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\refint\01. Sort Even Numbers.dll
+C:\Users\Owner\source\repos\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.pdb
+C:\Users\Owner\source\repos\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\01. Sort Even Numbers.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net5.0\ref\01. Sort Even Numbers.dll
