@@ -21,3 +21,10 @@
 6. [Objects and Classes](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Fundamentals/06.Objects%20and%20Classes)
 7. [Associative Arrays](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Fundamentals/07.Associative%20Arrays)
 8. [Text Processing](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Fundamentals/08.Text%20Processing)
+
+- ### C# Advanced Carriculum List
+1. [Stacks and Queues](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Advanced/1.Stacks%20and%20Queues)
+2. [Multidimensional Arrays](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Advanced/2.Multidimensional%20Arrays) 
+3. [Sets and Dictionaries Advanced](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Advanced/3.Sets%20and%20Dictionaries%20Advanced)
+4. [Streams, Files and Directories](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Advanced/4.Streams%2C%20Files%20and%20Directories)
+5. [Functional Programming](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Advanced/5.Functional%20Programming)
