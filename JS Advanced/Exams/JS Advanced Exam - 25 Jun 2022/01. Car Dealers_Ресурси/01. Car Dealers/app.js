@@ -52,7 +52,10 @@ function solve() {
   function addPost(ev, makeInput, modelInput, yearInput, fuelInput, firstPriceInput, sellingPriceInput) {
     let tr = document.createElement('tr');
 
+    //Use this if there is more than one arg:
     tr.setAttribute("class", "row");
+    //Use this if there is only one arg:
+    //li.classList.add("rpost");
 
     let make = document.createElement('td');
     make.textContent = makeInput;
