@@ -7,7 +7,7 @@ function solve() {
   /*
   When you click the [“Publish”] button, the information from the input fields must be added to the tbody with the id “table-body”. Then, clear all input fields. 
   */
-  document.getElementById('publish').addEventListener('click', publishData);
+  //document.getElementById('publish').addEventListener('click', publishData);
 
   //Get the table:
   let table = document.getElementById("table-body");
