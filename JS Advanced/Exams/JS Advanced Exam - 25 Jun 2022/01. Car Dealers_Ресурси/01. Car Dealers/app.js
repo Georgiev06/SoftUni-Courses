@@ -7,7 +7,7 @@ function solve() {
   /*
   When you click the [“Publish”] button, the information from the input fields must be added to the tbody with the id “table-body”. Then, clear all input fields. 
   */
-  document.getElementById('publish').addEventListener('click', publishData);
+  //document.getElementById('publish').addEventListener('click', publishData);
 
   //Get the table:
   let table = document.getElementById("table-body");
@@ -52,7 +52,10 @@ function solve() {
   function addPost(ev, makeInput, modelInput, yearInput, fuelInput, firstPriceInput, sellingPriceInput) {
     let tr = document.createElement('tr');
 
+    //Use this if there is more than one arg:
     tr.setAttribute("class", "row");
+    //Use this if there is only one arg:
+    //li.classList.add("rpost");
 
     let make = document.createElement('td');
     make.textContent = makeInput;
