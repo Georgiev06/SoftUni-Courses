@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.exe
+C:\Users\Owner\source\repos\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.deps.json
+C:\Users\Owner\source\repos\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+C:\Users\Owner\source\repos\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.dll
+C:\Users\Owner\source\repos\Polymorphism - Lab\Operations\bin\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\Owner\source\repos\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.dll
+C:\Users\Owner\source\repos\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\Owner\source\repos\Polymorphism - Lab\Operations\obj\Debug\netcoreapp3.1\Operations.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Owner\Desktop\SoftUni\C# Fundamentals\05.Lists\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+C:\Users\Owner\Desktop\SoftUni\C# Fundamentals\05.Lists\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+C:\Users\Owner\Desktop\SoftUni\C# Fundamentals\05.Lists\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+C:\Users\Owner\Desktop\SoftUni\C# Fundamentals\05.Lists\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\SoftUni\C# Fundamentals\05.Lists\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+C:\Users\Owner\Desktop\SoftUni\C# Fundamentals\05.Lists\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+C:\Users\Owner\Desktop\SoftUni\C# Fundamentals\05.Lists\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\SoftUni\C# Fundamentals\05.Lists\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\SoftUni\C# Fundamentals\05.Lists\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\SoftUni\C# Fundamentals\05.Lists\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+C:\Users\Owner\Desktop\SoftUni\C# Fundamentals\05.Lists\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\SoftUni\C# Fundamentals\05.Lists\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+C:\Users\Owner\Desktop\SoftUni\C# Fundamentals\05.Lists\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+C:\Users\Owner\Desktop\SoftUni\C# Fundamentals\05.Lists\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache

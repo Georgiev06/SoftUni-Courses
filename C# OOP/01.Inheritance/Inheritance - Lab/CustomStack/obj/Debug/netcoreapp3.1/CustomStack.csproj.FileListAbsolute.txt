@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\Inheritance - Lab\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.exe
+C:\Users\Owner\source\repos\Inheritance - Lab\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.deps.json
+C:\Users\Owner\source\repos\Inheritance - Lab\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.json
+C:\Users\Owner\source\repos\Inheritance - Lab\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Inheritance - Lab\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\Owner\source\repos\Inheritance - Lab\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\Owner\source\repos\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\Owner\source\repos\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\Owner\source\repos\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.genruntimeconfig.cache

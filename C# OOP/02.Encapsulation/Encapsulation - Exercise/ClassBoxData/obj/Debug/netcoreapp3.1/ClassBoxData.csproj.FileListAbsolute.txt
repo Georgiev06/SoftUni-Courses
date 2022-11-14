@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\Encapsulation - Exercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.exe
+C:\Users\Owner\source\repos\Encapsulation - Exercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.deps.json
+C:\Users\Owner\source\repos\Encapsulation - Exercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.json
+C:\Users\Owner\source\repos\Encapsulation - Exercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Encapsulation - Exercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.dll
+C:\Users\Owner\source\repos\Encapsulation - Exercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.pdb
+C:\Users\Owner\source\repos\Encapsulation - Exercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Encapsulation - Exercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Encapsulation - Exercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Encapsulation - Exercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Encapsulation - Exercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Encapsulation - Exercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.dll
+C:\Users\Owner\source\repos\Encapsulation - Exercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.pdb
+C:\Users\Owner\source\repos\Encapsulation - Exercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.genruntimeconfig.cache

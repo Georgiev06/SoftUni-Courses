@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+C:\Users\Owner\source\repos\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+C:\Users\Owner\source\repos\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+C:\Users\Owner\source\repos\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\Owner\source\repos\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\Owner\source\repos\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\Owner\source\repos\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\Owner\source\repos\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache
