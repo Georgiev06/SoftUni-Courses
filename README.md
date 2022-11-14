@@ -28,3 +28,5 @@
 3. [Sets and Dictionaries Advanced](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Advanced/3.Sets%20and%20Dictionaries%20Advanced)
 4. [Streams, Files and Directories](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Advanced/4.Streams%2C%20Files%20and%20Directories)
 5. [Functional Programming](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Advanced/5.Functional%20Programming)
+
+- ### JS Advanced Carriculum List
