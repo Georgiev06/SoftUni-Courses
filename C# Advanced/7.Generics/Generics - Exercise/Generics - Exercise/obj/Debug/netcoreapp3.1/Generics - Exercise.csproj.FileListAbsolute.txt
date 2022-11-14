@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\Generics - Exercise\Generics - Exercise\bin\Debug\netcoreapp3.1\Generics - Exercise.exe
+C:\Users\Owner\source\repos\Generics - Exercise\Generics - Exercise\bin\Debug\netcoreapp3.1\Generics - Exercise.deps.json
+C:\Users\Owner\source\repos\Generics - Exercise\Generics - Exercise\bin\Debug\netcoreapp3.1\Generics - Exercise.runtimeconfig.json
+C:\Users\Owner\source\repos\Generics - Exercise\Generics - Exercise\bin\Debug\netcoreapp3.1\Generics - Exercise.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Generics - Exercise\Generics - Exercise\bin\Debug\netcoreapp3.1\Generics - Exercise.dll
+C:\Users\Owner\source\repos\Generics - Exercise\Generics - Exercise\bin\Debug\netcoreapp3.1\Generics - Exercise.pdb
+C:\Users\Owner\source\repos\Generics - Exercise\Generics - Exercise\obj\Debug\netcoreapp3.1\Generics - Exercise.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Generics - Exercise\Generics - Exercise\obj\Debug\netcoreapp3.1\Generics - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Generics - Exercise\Generics - Exercise\obj\Debug\netcoreapp3.1\Generics - Exercise.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Generics - Exercise\Generics - Exercise\obj\Debug\netcoreapp3.1\Generics - Exercise.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Generics - Exercise\Generics - Exercise\obj\Debug\netcoreapp3.1\Generics - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Generics - Exercise\Generics - Exercise\obj\Debug\netcoreapp3.1\Generics - Exercise.dll
+C:\Users\Owner\source\repos\Generics - Exercise\Generics - Exercise\obj\Debug\netcoreapp3.1\Generics - Exercise.pdb
+C:\Users\Owner\source\repos\Generics - Exercise\Generics - Exercise\obj\Debug\netcoreapp3.1\Generics - Exercise.genruntimeconfig.cache
