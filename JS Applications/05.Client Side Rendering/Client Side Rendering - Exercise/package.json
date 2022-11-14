@@ -1,0 +1,16 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html": "^1.0.0",
+    "lit": "^2.4.1",
+    "lit-html": "^2.4.0"
+  }
+}
