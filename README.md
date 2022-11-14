@@ -29,4 +29,6 @@
 4. [Streams, Files and Directories](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Advanced/4.Streams%2C%20Files%20and%20Directories)
 5. [Functional Programming](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Advanced/5.Functional%20Programming)
 
+- ### C# OOP Carriculum List
+
 - ### JS Advanced Carriculum List
