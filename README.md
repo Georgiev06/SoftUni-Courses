@@ -30,7 +30,7 @@
 5. [Functional Programming](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Advanced/5.Functional%20Programming)
 6. [Defining Classes](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Advanced/6.Defining%20Classes/Defining%20Classes%20-%20Lab)
 7. [Generics](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Advanced/7.Generics)
-8. [terators and Comparators](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Advanced/8.Iterators%20and%20Comparators/Iterators%20and%20Comparators%20-%20Exercise)
+8. [Iterators and Comparators](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Advanced/8.Iterators%20and%20Comparators/Iterators%20and%20Comparators%20-%20Exercise)
 
 - ### C# OOP Carriculum List
 
