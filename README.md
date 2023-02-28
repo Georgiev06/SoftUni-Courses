@@ -33,5 +33,9 @@
 8. [Iterators and Comparators](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20Advanced/8.Iterators%20and%20Comparators/Iterators%20and%20Comparators%20-%20Exercise)
 
 - ### C# OOP Carriculum List
-
-- ### JS Advanced Carriculum List
+1. [Inheritance](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20OOP/01.Inheritance)
+2. [Encapsulation](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20OOP/02.Encapsulation)
+3. [Interfaces and Abstraction](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20OOP/03.Interfaces%20and%20Abstraction)
+4. [Polymorphism](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20OOP/04.Polymorphism)
+5. [Exceptions and Error Handling](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20OOP/05.Exceptions%20and%20Error%20Handling/Exceptions%20and%20Error%20Handling%20-%20Lab)
+6. [Reflection and Attributes](https://github.com/Georgiev06/SoftUni-Courses/tree/main/C%23%20OOP/06.Reflection%20and%20Attributes)
